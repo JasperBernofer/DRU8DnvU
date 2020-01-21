@@ -4816,8 +4816,15 @@
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
                   <monogr xml:lang="ar">
                      <title level="j" xml:lang="ar">المقطم</title>
+                     <editor> <persName>شاهين <surname>مكاريوس</surname></persName></editor>
+                     <editor><persName>عقوب <surname>صروف</surname></persName></editor>
+                     <editor><persName>فارس <surname>نمر</surname></persName> </editor>
                      <textLang mainLang="ar"/>
-                     <imprint/>
+                     <imprint>
+                        <date when="1889-02-14"/>
+                        <date notAfter="1952-xx-xx"/>
+                       <pubPlace><placeName>Cairo</placeName></pubPlace>
+                     </imprint>
                   </monogr>
                </biblStruct>
                <biblStruct xml:lang="ar" xmlns:zot="https://zotero.org" zot:genre="journalArticle">
